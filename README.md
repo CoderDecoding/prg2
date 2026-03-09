@@ -12,4 +12,4 @@ def print_star_pattern(n):
          for j in range(i):
             print("*",end=" ")          
          print()
-print_star_pattern(n) 
+print_star_pattern(n)
