@@ -1,1 +1,1 @@
-# prg2
+#program2 (pattern printing)(DIAMOND - ASTRISK)
